@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.cl.dao.JingjirenDao">
+
+	<!-- 可根据自己的需求，是否要使用 -->
+    <resultMap type="com.cl.entity.JingjirenEntity" id="jingjirenMap">
+        <result property="jingjirenzhanghao" column="jingjirenzhanghao"/>
+        <result property="mima" column="mima"/>
+        <result property="jingjirenxingming" column="jingjirenxingming"/>
+        <result property="touxiang" column="touxiang"/>
+        <result property="xingbie" column="xingbie"/>
+        <result property="shouji" column="shouji"/>
+        <result property="mendian" column="mendian"/>
+    </resultMap>
+
+    <select id="selectListView"
+		resultType="com.cl.entity.view.JingjirenView" >
+
+		SELECT  jingjiren.* FROM jingjiren  jingjiren 	        
+        <where> 1=1 ${ew.sqlSegment}</where>
+	</select>
+	
+	<select id="selectView"
+		resultType="com.cl.entity.view.JingjirenView" >
+		SELECT * FROM jingjiren  jingjiren <where> 1=1 ${ew.sqlSegment}</where>
+	</select>
+	
+
+</mapper>

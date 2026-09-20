@@ -1,0 +1,357 @@
+{
+	"pages": [{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "首页"
+		}
+	},{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "登录"
+		}
+	}, {
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "注册"
+		}
+	}, {
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "忘记密码"
+		}
+	}, {
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "我的"
+		}
+	}, {
+		"path": "pages/user-info/user-info",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+	,{
+		"path": "pages/yonghu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/yonghu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/yonghu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/jingjiren/list",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/jingjiren/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/jingjiren/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/fangwuleixing/list",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/fangwuleixing/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/fangwuleixing/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/fangyuanchushou/list",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/fangyuanchushou/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/fangyuanchushou/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/storeup/list",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/yuyuegoufang/list",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/yuyuegoufang/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/yuyuegoufang/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/yudingfangzi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/yudingfangzi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/yudingfangzi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/fangyuanchuzu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/fangyuanchuzu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/fangyuanchuzu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/yuyuezufang/list",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/yuyuezufang/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/yuyuezufang/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/zufangxinxi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/zufangxinxi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/zufangxinxi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/mendian/list",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/mendian/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/mendian/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/discussfangyuanchushou/list",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/discussfangyuanchushou/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/discussfangyuanchushou/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/discussfangyuanchuzu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/discussfangyuanchuzu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/discussfangyuanchuzu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	, {
+		"path": "pages/news-list/news-list",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "新闻资讯"
+		}
+	}
+	, {
+		"path": "pages/news-detail/news-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "新闻资讯"
+		}
+	}
+	, {
+		"path": "pages/pay-confirm/pay-confirm",
+		"style": {
+			"navigationBarTitleText": "确认支付"
+		}
+	}
+    ,{
+        "path": "common/linkOthers/linkOthers",
+        "style": {
+			"navigationBarBackgroundColor": "#C6EBF1",
+			"navigationBarTextStyle": "black"
+        }
+    }
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "基于微信小程序的房产交易租赁服务平台设计与实现",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#666666",
+		"selectedColor": "#000000",
+		"borderStyle": "white",
+		"backgroundColor": "#C6EBF1",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/1/index.png",
+				"selectedIconPath": "static/tabs/1/index1.png",
+				"text": "首页"
+			}
+			
+
+			,{
+			 	"pagePath": "pages/news-list/news-list",
+				"iconPath": "static/tabs/1/news.png",
+			 	"selectedIconPath": "static/tabs/1/news_act.png",
+				"text": "新闻资讯"
+			}
+			,{
+				"pagePath": "pages/fangyuanchushou/list",
+				"iconPath": "/static/tabs/1/icon1.png",
+				"selectedIconPath": "/static/tabs/1/icon1_act.png",
+				"text": "房源出售"
+			}
+			,{
+				"pagePath": "pages/fangyuanchuzu/list",
+				"iconPath": "/static/tabs/1/icon2.png",
+				"selectedIconPath": "/static/tabs/1/icon2_act.png",
+				"text": "房源出租"
+			}
+
+
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/1/mine.png",
+				"selectedIconPath": "static/tabs/1/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+}
